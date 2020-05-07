@@ -9,6 +9,8 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 
+#https://www.youtube.com/watch?v=6bL7n9aP6e0 : reference
+
 
 
 @app.route('/login')
