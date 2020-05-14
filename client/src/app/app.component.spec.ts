@@ -1,7 +1,11 @@
 import { TestBed, async } from '@angular/core/testing';
 import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
+<<<<<<< Updated upstream
 
+=======
+// import { FileUploadComponent} from './app.component'
+>>>>>>> Stashed changes
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
